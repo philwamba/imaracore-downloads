@@ -4,9 +4,9 @@ The operating core for community finance.
 
 ## Download
 
-**Current version: 0.4.1 (build 5)**
+**Current version: 0.4.2 (build 6)**
 
-**[Download imaracore-v0.4.1-build.5.apk](https://github.com/philwamba/imaracore-downloads/releases/download/v0.4.1-build.5/imaracore-v0.4.1-build.5.apk)**
+**[Download imaracore-v0.4.2-build.6.apk](https://github.com/philwamba/imaracore-downloads/releases/download/v0.4.2-build.6/imaracore-v0.4.2-build.6.apk)**
 
 [Release notes and all versions](https://github.com/philwamba/imaracore-downloads/releases)
 
@@ -16,8 +16,8 @@ versions install over the existing app and retain its data.
 
 ## Versioning
 
-Releases are tagged `vMAJOR.MINOR.PATCH-build.NUMBER` (for example, `v0.4.1-build.5`)
-and every APK carries its version in its file name (for example, `imaracore-v0.4.1-build.5.apk`).
+Releases are tagged `vMAJOR.MINOR.PATCH-build.NUMBER` (for example, `v0.4.2-build.6`)
+and every APK carries its version in its file name (for example, `imaracore-v0.4.2-build.6.apk`).
 Features increment MINOR; fixes increment PATCH; breaking changes increment
 MAJOR. Both the displayed version and the Android build number increase for
 each published release. While below 1.0, the app is in initial development.
